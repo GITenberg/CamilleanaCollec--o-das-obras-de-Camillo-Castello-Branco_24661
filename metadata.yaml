@@ -1,0 +1,29 @@
+_repo: CamilleanaCollec--o-das-obras-de-Camillo-Castello-Branco_24661
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Mota, João Xavier da
+    alias: Motta, João Xavier da
+    birthdate: 1850
+    deathdate: 1895
+    gutenberg_agent_id: '26654'
+    url: http://www.gutenberg.org/2009/agents/26654
+description: ''
+gutenberg_issued: '2008-02-20'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '24661'
+language: pt
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Castelo Branco, Camilo, 1825-1890 -- Bibliography'
+- !lcc 'Z'
+title: 'Camilleana
+
+  Collecção das obras de Camillo Castello Branco'
+url: http://www.gutenberg.org/ebooks/24661
